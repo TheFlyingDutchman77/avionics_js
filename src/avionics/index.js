@@ -61,7 +61,7 @@ class Avionics {
     this._pitchValue = 0;
     this._airspeed = 0;
     this._altitube = 0;
-    this._heading = 360;
+    this._heading = 180;
     this._verticalSpeed = 0;
   }
 
