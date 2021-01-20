@@ -18,7 +18,7 @@ export default function printSpeed (elem, opts) {
   const marker = createElem('speed_scale_marker'),
         large_marker = createElem('speed_scale_large_marker');
   let i = 0;
-  while (i <= 100) {
+  while (i <= 200) {
     let clone;
 
     if (i % 2 === 0) {
