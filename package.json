@@ -1,6 +1,6 @@
 {
-  "name": "@ivyknob/avionics_js",
-  "version": "0.0.19",
+  "name": "Erik_avionics",
+  "version": "0.0.18",
   "description": "js all in one avionics module",
   "main": "dist/avionics.js",
   "files": [
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivyknob/avionics_js.git"
+    "url": "git+https://github.com/TheFlyingDutchman77/avionics_js.git"
   },
   "author": "Ivy Knob",
   "license": "MIT",

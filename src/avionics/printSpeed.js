@@ -10,7 +10,7 @@ export default function printSpeed (elem, opts) {
           redLine = elem.querySelector('#speed_red_line');
 
     redLine.setAttribute('y1', 0);
-    redLine.setAttribute('y2', 300 * -8);
+    redLine.setAttribute('y2', 1000 * -8);
 
     greenLine.setAttribute('y1', opts.min * -8);
     greenLine.setAttribute('y2', opts.max * -8);
